@@ -26,9 +26,6 @@
 ### Science
  - Electronics
  - Electricity
- - Electrons
- - Atoms
- - Quantum
 
 
 ### Personal Guides
